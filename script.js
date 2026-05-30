@@ -78,7 +78,8 @@ const sinnerData = {
         { name: "흑수 - 묘", rank: 3, img: "04_ryoshu_kuro.png" },
         { name: "N사 E.G.O::경멸, 경외", rank: 3, img: "04_ryoshu_ncorp.png" },
         { name: "홍원 방랑무사", rank: 3, img: "04_ryoshu_hongyeon.png" },
-        { name: "로보토미 E.G.O::잔향 · 외로움", rank: 3, img: "04_ryoshu_reverberation.png" }
+        { name: "로보토미 E.G.O::잔향 · 외로움", rank: 3, img: "04_ryoshu_reverberation.png" },
+        { name: "[ 거미집의 검 로슈 ]", rank: 3, img: "04_ryoshu_spider.png" }
     ],
     "뫼르소": [
         { name: "LCB 수감자", rank: 1, img: "05_meursault_base.png" },
@@ -194,7 +195,8 @@ const sinnerData = {
         { name: "라만차랜드 이발사", rank: 3, img: "11_outis_barber.png" },
         { name: "흑수 - 묘", rank: 3, img: "11_outis_kuro.png" },
         { name: "T사 3등급 강력징수직 직원", rank: 3, img: "11_outis_tcorp.png" },
-        { name: "LCA 우제트 선봉 3팀 팀장", rank: 3, img: "11_outis_udjat.png" }
+        { name: "LCA 우제트 선봉 3팀 팀장", rank: 3, img: "11_outis_udjat.png" },
+        { name: "[ 거미집 중지 아비 ] 오티스", rank: 3, img: "11_outis_spider.png" }
     ],
     "그레고르": [
         { name: "LCB 수감자", rank: 1, img: "12_gregor_base.png" },
