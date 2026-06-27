@@ -129,7 +129,8 @@ const sinnerData = {
         { name: "흑운회 와카슈", rank: 3, img: "07_heath_kurokumo.png" },
         { name: "W사 4등급 정리 요원 - CCA", rank: 3, img: "07_heath_w.png" },
         { name: "흑수 - 유 필두", rank: 3, img: "07_heath_kuro.png" },
-        { name: "[ 중지 작은 형님 ] 히스클리프", rank: 3, img: "07_heath_small.png" }
+        { name: "[ 중지 작은 형님 ] 히스클리프", rank: 3, img: "07_heath_small.png" },
+        { name: "[ 거미집 중지 제자 ] 히스클리프", rank: 3, img: "07_heath_spider.png" }
     ],
     "이스마엘": [
         { name: "LCB 수감자", rank: 1, img: "08_ish_base.png" },
@@ -162,7 +163,8 @@ const sinnerData = {
         { name: "흑수 - 사", rank: 3, img: "09_rodion_kuro.png" },
         { name: "로보토미 E.G.O::눈물로 벼려낸 검", rank: 3, img: "09_rodion_efflorescence.png" },
         { name: "R사 제 4무리 순록팀", rank: 3, img: "09_rodion_reindeer.png" },
-        { name: "[ 약지 야수파 도슨트 ] 로쟈", rank: 3, img: "09_rodion_yasu.png" }
+        { name: "[ 약지 야수파 도슨트 ] 로쟈", rank: 3, img: "09_rodion_yasu.png" },
+        { name: "[ 거미집 검지 아비 ] 로쟈", rank: 3, img: "09_rodion_spider.png" }
     ],
     "싱클레어": [
         { name: "LCB 수감자", rank: 1, img: "10_sinclair_base.png" },
